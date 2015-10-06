@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": 12345,
+      "photo": "http://blablabal",
+      "location": {
+        "long": 1.434234,
+        "lat": 2.530583
+      },
+      "inBoxId": 473748937,
+      "dateAdded": "dateInfo",
+      "dateChanged": "dateInfo",
+      "purchacePrice": 51.2,
+      "purchaceCurrency": null,
+      "purchaceDate": 51.2,
+      "WarrantyLengthMonths": 12,
+      "currentValue": 30,
+      "notes": "bla blabla",
+      "quantity": "1",
+      "private": true
+    }
+  ]
+}
