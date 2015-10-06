@@ -1,2 +1,2 @@
 # invertory
-This tool will help me to manage my stuff!
+This tool will help you manage your stuff!
